@@ -1,5 +1,4 @@
 # Tutorial: Como generar una imagen Docker
-## Descripción
 Docker es una forma de distribuir aplicaciones, donde todas las dependencias, 
 librerías y código están contenidas en una imagen Docker que puede ser ejecutada
 en cualquier servidor que tenga el servicio de **Docker Engine**.
