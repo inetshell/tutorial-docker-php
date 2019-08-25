@@ -1,6 +1,6 @@
 # Tutorial: Como generar una imagen Docker
 Docker es una forma de distribuir aplicaciones, donde todas las dependencias, 
-librerías y código están encapsuladas en un **Docker Image** que puede ser ejecutada
+librerías y código están encapsuladas en un **Docker Image** que puede ser ejecutado
 en cualquier servidor que tenga el servicio de **Docker Engine**.
 
 El servicio usado para almacenar las imágenes Docker es llamado **Docker Registry**.
